@@ -11,4 +11,4 @@ allowance -= toy
 allowance /= 2
 
 # Print final allowance
-print(f"Allowance: ")
+print(f"Allowance: {allowance}")
